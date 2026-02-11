@@ -4,10 +4,6 @@
   <b> Cloud | Infrastructure | Security | Automation </b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🛡️ Professional Focus
