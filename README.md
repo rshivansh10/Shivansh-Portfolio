@@ -34,15 +34,6 @@ Developed a tumor classification system using SVM, Random Forest, and KNN to dem
 
 ---
 
-## 📈 Engineering Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="Shivansh's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/yourprofile]([https://www.linkedin.com/in/shivansh-rai-7200a2248/])
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/shivansh-rai-7200a2248/)
 - **Portfolio**: [your-portfolio-link.com](https://rshivansh10portfolio.netlify.app/)
